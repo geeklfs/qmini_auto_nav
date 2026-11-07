@@ -1,0 +1,7 @@
+build/
+output/
+.DS_Store
+*.obj
+*.ply
+*.area
+*.svo
